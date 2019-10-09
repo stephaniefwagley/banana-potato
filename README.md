@@ -1,4 +1,5 @@
-# images
+# Personal Project
+##### I spend about two hours doing the Pythin for Everybody course every Monday and I watch different videos on YouTube. The amount of time watching coding videos on YouTube depends on what is covered in class that week and what I need help understanding.
 
 ![coursera1](https://user-images.githubusercontent.com/54415517/66276726-83abee00-e863-11e9-919b-98ee2f99498a.png)
 ![coursera2](https://user-images.githubusercontent.com/54415517/66276746-8870a200-e863-11e9-811c-12cc62651f73.png)
