@@ -2,7 +2,8 @@
 ##### I spend about two hours doing the Pythin for Everybody course every Monday and I watch different videos on YouTube. The amount of time watching coding videos on YouTube depends on what is covered in class that week and what I need help understanding.
 
 ![coursera1](https://user-images.githubusercontent.com/54415517/66276726-83abee00-e863-11e9-919b-98ee2f99498a.png)
-![coursera2](https://user-images.githubusercontent.com/54415517/66276746-8870a200-e863-11e9-811c-12cc62651f73.png)
+![coursera3](https://user-images.githubusercontent.com/54415517/67257684-20bd7800-f45b-11e9-9db8-27afe01cdfa0.PNG)
+![coursera4](https://user-images.githubusercontent.com/54415517/67257689-26b35900-f45b-11e9-9b0c-44e5537f3010.PNG)
 ![IMG_1328](https://user-images.githubusercontent.com/54415517/66509019-37012680-eaa0-11e9-903e-0258b103ea15.JPG)
 ![IMG_1334](https://user-images.githubusercontent.com/54415517/66509031-3b2d4400-eaa0-11e9-9725-d125bae9deaf.JPG)
 ![IMG_1333](https://user-images.githubusercontent.com/54415517/66509048-41bbbb80-eaa0-11e9-995d-ece728ad964b.JPG)
