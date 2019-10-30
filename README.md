@@ -1,5 +1,5 @@
 # Personal Project
-##### I spend about two hours doing the Pythin for Everybody course every Monday and I watch different videos on YouTube. The amount of time watching coding videos on YouTube depends on what is covered in class that week and what I need help understanding.
+##### I spend about two hours doing the Python for Everybody course every Monday and I watch different videos on YouTube. The amount of time watching coding videos on YouTube depends on what is covered in class that week and what I need help understanding.
 
 ![coursera1](https://user-images.githubusercontent.com/54415517/66276726-83abee00-e863-11e9-919b-98ee2f99498a.png)
 ![coursera3](https://user-images.githubusercontent.com/54415517/67257684-20bd7800-f45b-11e9-9db8-27afe01cdfa0.PNG)
