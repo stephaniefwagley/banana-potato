@@ -8,7 +8,7 @@
 ![coursera6](https://user-images.githubusercontent.com/54415517/69685841-d2b81780-108b-11ea-87f9-ee669160a346.PNG)
 ![coursera7](https://user-images.githubusercontent.com/54415517/69685852-d77ccb80-108b-11ea-9442-02756b989d74.PNG)
 ![coursera8](https://user-images.githubusercontent.com/54415517/69685857-db105280-108b-11ea-9af6-19f76e28c8e1.PNG)
-#### These are notes from SWEBOK.
+#### These are notes from SWEBOK and other YouTube videos.
 ![IMG_1328](https://user-images.githubusercontent.com/54415517/66509019-37012680-eaa0-11e9-903e-0258b103ea15.JPG)
 ![IMG_1334](https://user-images.githubusercontent.com/54415517/66509031-3b2d4400-eaa0-11e9-9725-d125bae9deaf.JPG)
 ![IMG_1333](https://user-images.githubusercontent.com/54415517/66509048-41bbbb80-eaa0-11e9-995d-ece728ad964b.JPG)
