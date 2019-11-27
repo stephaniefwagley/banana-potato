@@ -1,9 +1,14 @@
 # Personal Project
-##### I spent about two hours doing the Python for Everybody course every Monday, which I now completed, and I watch different videos on YouTube. The amount of time watching coding videos on YouTube depends on what is covered in class that week and what I need help understanding.
+##### I spent about two hours doing the Python for Everybody course and I watch different videos on YouTube. The amount of time watching coding videos on YouTube depends on what is covered in class that week and what I need help understanding.
 
 ![coursera1](https://user-images.githubusercontent.com/54415517/66276726-83abee00-e863-11e9-919b-98ee2f99498a.png)
 ![coursera3](https://user-images.githubusercontent.com/54415517/67257684-20bd7800-f45b-11e9-9db8-27afe01cdfa0.PNG)
 ![coursera5](https://user-images.githubusercontent.com/54415517/67705436-5b5c6e80-f98d-11e9-8340-314152e2b9a5.PNG)
+#### This is the second section of the course, which I have also completed.
+![coursera6](https://user-images.githubusercontent.com/54415517/69685841-d2b81780-108b-11ea-87f9-ee669160a346.PNG)
+![coursera7](https://user-images.githubusercontent.com/54415517/69685852-d77ccb80-108b-11ea-9442-02756b989d74.PNG)
+![coursera8](https://user-images.githubusercontent.com/54415517/69685857-db105280-108b-11ea-9af6-19f76e28c8e1.PNG)
+#### These are notes from SWEBOK.
 ![IMG_1328](https://user-images.githubusercontent.com/54415517/66509019-37012680-eaa0-11e9-903e-0258b103ea15.JPG)
 ![IMG_1334](https://user-images.githubusercontent.com/54415517/66509031-3b2d4400-eaa0-11e9-9725-d125bae9deaf.JPG)
 ![IMG_1333](https://user-images.githubusercontent.com/54415517/66509048-41bbbb80-eaa0-11e9-995d-ece728ad964b.JPG)
